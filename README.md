@@ -49,7 +49,7 @@ JavaScript: Lógica do jogo, como embaralhamento, verificação de combinações
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/emoji-memory-game.git
+git clone https://github.com/eumayaraneves/jogo-da-memoria.git
 
 
 2. Navegue até a pasta do projeto:
